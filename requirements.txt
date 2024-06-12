@@ -1,0 +1,8 @@
+pandas
+notebook 
+datashader 
+holoviews 
+hvplot 
+fastparquet 
+python-snappy
+matplotlib
