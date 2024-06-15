@@ -1,6 +1,9 @@
 #datas
 data/
-student.zip
+student
+
 
 #virtual environment
 Lenv/
+
+scripts/
