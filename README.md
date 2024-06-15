@@ -20,20 +20,15 @@ git clone https://github.com/temesgen5335/Logistic-optimization.git
 2. Create a virtual environment and install the required packages:
 
 ```bash
-$ python3 -m venv .venv
-$ source .venv/bin/activate
-$ pip install -r requirements.txt
-```
-
-3. Create a Virtual Environment and Install Dependencies
-
-```bash
 python3.10 -m venv venv
 source venv/bin/activate  # For Unix or MacOS
 venv\Scripts\activate     # For Windows
+p
 ```
 
-4. Install requirements
-```
+3. Install Dependencies
+
+```bash
 pip install -r requirements.txt
 ```
+
