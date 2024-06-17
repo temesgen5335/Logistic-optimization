@@ -5,4 +5,5 @@ student
 #virtual environment
 Lenv/
 
-scripts/
+scripts/weather_api.py
+scripts/eda_pipeline.py
